@@ -2,7 +2,9 @@
 
 Zoom in and out of your webcam. One file, nothing to install.
 
-## How to use
+**Use it right away: https://slaster44.github.io/webcam-zoom/** (click **Allow** for the camera)
+
+## How to use (download)
 
 1. Download `Webcam Zoom.html` (green **Code** button → **Download ZIP**, then unzip).
 2. Double-click the file. It opens in Chrome or Edge.
